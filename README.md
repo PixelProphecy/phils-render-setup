@@ -1,5 +1,6 @@
 # phils-render-setup
 A Game Maker Studio 2 Normal Lighting Setup
+![Phil's Render Setup](/github-assets/prs-title-image.png?raw=true "Phil's Render Setup")
 
 # Phil's GML Renderer
 A simple 2D lighting & rendering system for Game Maker with support for Diffuse Shading, Normal Maps, Phong Shading, and Lens Flares and up to 8 dynamic light sources.
